@@ -14,4 +14,9 @@ Scripts was written in education purpuses of library "minescript" just to test a
 2. Input the name of the script (If you didn't change the name for simplier usage, it'll be: \pvp_mode)
 3. You'll be welcomed by scripts and you can start doing pvp and having fun!
 
+- Do not forget to install requirements.txt
+1. Open cmd in project folder
+2. input:
+> pip install -r requirements.txt
+
 Thanks <3
