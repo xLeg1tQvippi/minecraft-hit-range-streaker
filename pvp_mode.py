@@ -2,7 +2,7 @@ import math
 from pynput import mouse
 import minescript
 
-class CombatStriker:
+class CombatStreaker:
     def __init__(self):
         self.max_hit_length = 3.32
 
